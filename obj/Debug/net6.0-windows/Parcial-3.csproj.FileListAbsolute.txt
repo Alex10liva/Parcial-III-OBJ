@@ -1,0 +1,51 @@
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Parcial-3\Parcial-3\bin\Debug\net6.0-windows\Parcial-3.exe
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Parcial-3\Parcial-3\bin\Debug\net6.0-windows\Parcial-3.deps.json
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Parcial-3\Parcial-3\bin\Debug\net6.0-windows\Parcial-3.runtimeconfig.json
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Parcial-3\Parcial-3\bin\Debug\net6.0-windows\Parcial-3.dll
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Parcial-3\Parcial-3\bin\Debug\net6.0-windows\Parcial-3.pdb
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Parcial-3\Parcial-3\obj\Debug\net6.0-windows\Parcial-3.csproj.AssemblyReference.cache
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Parcial-3\Parcial-3\obj\Debug\net6.0-windows\Parcial_3.Form1.resources
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Parcial-3\Parcial-3\obj\Debug\net6.0-windows\Parcial-3.csproj.GenerateResource.cache
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Parcial-3\Parcial-3\obj\Debug\net6.0-windows\Parcial-3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Parcial-3\Parcial-3\obj\Debug\net6.0-windows\Parcial-3.AssemblyInfoInputs.cache
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Parcial-3\Parcial-3\obj\Debug\net6.0-windows\Parcial-3.AssemblyInfo.cs
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Parcial-3\Parcial-3\obj\Debug\net6.0-windows\Parcial-3.csproj.CoreCompileInputs.cache
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Parcial-3\Parcial-3\obj\Debug\net6.0-windows\Parcial-3.dll
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Parcial-3\Parcial-3\obj\Debug\net6.0-windows\refint\Parcial-3.dll
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Parcial-3\Parcial-3\obj\Debug\net6.0-windows\Parcial-3.pdb
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Parcial-3\Parcial-3\obj\Debug\net6.0-windows\Parcial-3.genruntimeconfig.cache
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Parcial-3\Parcial-3\obj\Debug\net6.0-windows\ref\Parcial-3.dll
+C:\Users\garci\Downloads\Parcial-3 (1)\Parcial-3\Parcial-3\bin\Debug\net6.0-windows\Parcial-3.exe
+C:\Users\garci\Downloads\Parcial-3 (1)\Parcial-3\Parcial-3\bin\Debug\net6.0-windows\Parcial-3.deps.json
+C:\Users\garci\Downloads\Parcial-3 (1)\Parcial-3\Parcial-3\bin\Debug\net6.0-windows\Parcial-3.runtimeconfig.json
+C:\Users\garci\Downloads\Parcial-3 (1)\Parcial-3\Parcial-3\bin\Debug\net6.0-windows\Parcial-3.dll
+C:\Users\garci\Downloads\Parcial-3 (1)\Parcial-3\Parcial-3\bin\Debug\net6.0-windows\Parcial-3.pdb
+C:\Users\garci\Downloads\Parcial-3 (1)\Parcial-3\Parcial-3\obj\Debug\net6.0-windows\Parcial-3.csproj.AssemblyReference.cache
+C:\Users\garci\Downloads\Parcial-3 (1)\Parcial-3\Parcial-3\obj\Debug\net6.0-windows\Parcial_3.Form1.resources
+C:\Users\garci\Downloads\Parcial-3 (1)\Parcial-3\Parcial-3\obj\Debug\net6.0-windows\Parcial-3.csproj.GenerateResource.cache
+C:\Users\garci\Downloads\Parcial-3 (1)\Parcial-3\Parcial-3\obj\Debug\net6.0-windows\Parcial-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garci\Downloads\Parcial-3 (1)\Parcial-3\Parcial-3\obj\Debug\net6.0-windows\Parcial-3.AssemblyInfoInputs.cache
+C:\Users\garci\Downloads\Parcial-3 (1)\Parcial-3\Parcial-3\obj\Debug\net6.0-windows\Parcial-3.AssemblyInfo.cs
+C:\Users\garci\Downloads\Parcial-3 (1)\Parcial-3\Parcial-3\obj\Debug\net6.0-windows\Parcial-3.csproj.CoreCompileInputs.cache
+C:\Users\garci\Downloads\Parcial-3 (1)\Parcial-3\Parcial-3\obj\Debug\net6.0-windows\Parcial-3.dll
+C:\Users\garci\Downloads\Parcial-3 (1)\Parcial-3\Parcial-3\obj\Debug\net6.0-windows\refint\Parcial-3.dll
+C:\Users\garci\Downloads\Parcial-3 (1)\Parcial-3\Parcial-3\obj\Debug\net6.0-windows\Parcial-3.pdb
+C:\Users\garci\Downloads\Parcial-3 (1)\Parcial-3\Parcial-3\obj\Debug\net6.0-windows\Parcial-3.genruntimeconfig.cache
+C:\Users\garci\Downloads\Parcial-3 (1)\Parcial-3\Parcial-3\obj\Debug\net6.0-windows\ref\Parcial-3.dll
+D:\Usuarios\Escritorio\Parcial-3\Parcial-3\bin\Debug\net6.0-windows\Parcial-3.exe
+D:\Usuarios\Escritorio\Parcial-3\Parcial-3\bin\Debug\net6.0-windows\Parcial-3.deps.json
+D:\Usuarios\Escritorio\Parcial-3\Parcial-3\bin\Debug\net6.0-windows\Parcial-3.runtimeconfig.json
+D:\Usuarios\Escritorio\Parcial-3\Parcial-3\bin\Debug\net6.0-windows\Parcial-3.dll
+D:\Usuarios\Escritorio\Parcial-3\Parcial-3\bin\Debug\net6.0-windows\Parcial-3.pdb
+D:\Usuarios\Escritorio\Parcial-3\Parcial-3\obj\Debug\net6.0-windows\Parcial-3.csproj.AssemblyReference.cache
+D:\Usuarios\Escritorio\Parcial-3\Parcial-3\obj\Debug\net6.0-windows\Parcial_3.Form1.resources
+D:\Usuarios\Escritorio\Parcial-3\Parcial-3\obj\Debug\net6.0-windows\Parcial-3.csproj.GenerateResource.cache
+D:\Usuarios\Escritorio\Parcial-3\Parcial-3\obj\Debug\net6.0-windows\Parcial-3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Escritorio\Parcial-3\Parcial-3\obj\Debug\net6.0-windows\Parcial-3.AssemblyInfoInputs.cache
+D:\Usuarios\Escritorio\Parcial-3\Parcial-3\obj\Debug\net6.0-windows\Parcial-3.AssemblyInfo.cs
+D:\Usuarios\Escritorio\Parcial-3\Parcial-3\obj\Debug\net6.0-windows\Parcial-3.csproj.CoreCompileInputs.cache
+D:\Usuarios\Escritorio\Parcial-3\Parcial-3\obj\Debug\net6.0-windows\Parcial-3.dll
+D:\Usuarios\Escritorio\Parcial-3\Parcial-3\obj\Debug\net6.0-windows\refint\Parcial-3.dll
+D:\Usuarios\Escritorio\Parcial-3\Parcial-3\obj\Debug\net6.0-windows\Parcial-3.pdb
+D:\Usuarios\Escritorio\Parcial-3\Parcial-3\obj\Debug\net6.0-windows\Parcial-3.genruntimeconfig.cache
+D:\Usuarios\Escritorio\Parcial-3\Parcial-3\obj\Debug\net6.0-windows\ref\Parcial-3.dll
